@@ -2,7 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nikkvijay/count.svg" />
 </p>
-<h1 align="center">Hi 👋, I'm Nikk Vijay</h1>
+<h1 align="center">Hi 👋, I'm Nikhileshwar Jatale</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkvijay&label=Profile%20views&color=0e75b6&style=flat" alt="nikkvijay" /> </p>
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
