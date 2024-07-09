@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikkvijay?tab=repositories](https://github.com/nikkvijay?tab=repositories)
 
-- 💬 Ask me about **Python, JAVA, DSA & Projects**
+- 💬 Ask me about ** JAVA, DSA & Projects**
 
-- 📫 How to reach me **gubreley789@gmail.com**
+- 📫 How to reach me **jatalenikhileshwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
