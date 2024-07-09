@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/nikhileshwar-jatale-4a85a1201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikkvijay" height="30" width="40" /></a>
 <a href="https://instagram.com/nikkvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskar_._" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sanskar_789" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="sanskar_789" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jatalenikhilesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanskar1" height="30" width="40" /></a>
 <a href="https://leetcode.com/nikkvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikkvijay" height="30" width="40" /></a>
 </p>
