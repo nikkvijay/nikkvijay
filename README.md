@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Full Stack Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikkvijay?tab=repositories](https://github.com/nikkvijay?tab=repositories)
 
