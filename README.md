@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Nikhileshwar Jatale</h2>
 
-
 ###
 
 - 🌱 I’m currently learning **Full Stack Dev**
