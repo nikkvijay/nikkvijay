@@ -37,6 +37,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikkvijay&" alt="nikkvijay" /></p>
 
-## LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/nikkvijay)
