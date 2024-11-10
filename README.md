@@ -50,7 +50,8 @@
 <br clear="both">
 
 <!-- Replace `REPOSITORY_NAME` with the name of your repository -->
-![snake animation](https://github.com/nikkvijay/snakeAnimation/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/nikkvijay/snakeAnimation/dist/snake.svg" alt="Snake animation" />
+
 
 ###
 
