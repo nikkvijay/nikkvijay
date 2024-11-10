@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikkvijay?tab=repositories](https://github.com/nikkvijay?tab=repositories)
 
-- 💬 Ask me about ** JAVA, DSA & Projects**
+- 💬 Ask me about **JAVA, DSA & Projects**
 
 - 📫 How to reach me **jatalenikhileshwar@gmail.com**
 
@@ -47,16 +47,13 @@
   <a href="https://linkedin.com/in/nikhileshwar-jatale-4a85a1201" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nikkvijay/output/snake.svg" alt="Snake animation" />
+<!-- Replace `REPOSITORY_NAME` with the name of your repository -->
+<img src="https://raw.githubusercontent.com/nikkvijay/REPOSITORY_NAME/dist/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/nikkvijay/count.svg?"  />
 </div>
-
-
