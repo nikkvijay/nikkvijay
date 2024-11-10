@@ -50,7 +50,7 @@
 <br clear="both">
 
 <!-- Replace `REPOSITORY_NAME` with the name of your repository -->
-<img src="https://raw.githubusercontent.com/nikkvijay/REPOSITORY_NAME/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nikkvijay/snakeAnimation/dist/snake.svg" alt="Snake animation" />
 
 ###
 
