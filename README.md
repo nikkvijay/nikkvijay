@@ -10,20 +10,13 @@
 
 ## 🧑‍💻 About Me
 
-```java
-class Nikhileshwar {
-    String name     = "Nikhileshwar Jatale";
-    String alias    = "nikkvijay";
-    String focus    = "Full Stack Development";
-    String[] loves  = { "Java", "DSA", "React", "Building Projects" };
-    String email    = "jatalenikhileshwar@gmail.com";
-    boolean openToWork = true;
-}
-```
-
-- 🌱 Currently levelling up in **Full Stack Development**
-- 💡 Strong foundation in **Java & Data Structures and Algorithms**
-- 🛠️ Building projects that solve real problems
+- 🎯 **Full Stack Development** — building end-to-end web apps with React, Node.js & MongoDB
+- 🖥️ **Frontend** — crafting responsive UIs with React, HTML, CSS & Tailwind
+- ⚙️ **Backend** — designing REST APIs with Node.js, Express & databases
+- ☕ **Java & DSA** — strong problem-solving foundation with core Java & algorithms
+- 🐍 **Python** — scripting, automation & data handling
+- 🤖 **Gen AI** — exploring LLMs, prompt engineering & AI-powered applications
+- 🛠️ Always building projects that solve real problems
 - 📫 Reach me at **jatalenikhileshwar@gmail.com**
 - ⚡ Fun fact — I debug faster with coffee ☕
 
